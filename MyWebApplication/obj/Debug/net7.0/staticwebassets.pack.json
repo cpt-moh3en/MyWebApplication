@@ -1,235 +1,235 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyWebApplication.bundle.scp.css",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyWebApplication.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyWebApplication.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\css\\bootstrap.css",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\css\\maicons.css",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\css\\maicons.css",
       "PackagePath": "staticwebassets\\assets\\css\\maicons.css"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\css\\mobster.css",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\css\\mobster.css",
       "PackagePath": "staticwebassets\\assets\\css\\mobster.css"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\favicon-light.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\favicon-light.png",
       "PackagePath": "staticwebassets\\assets\\favicon-light.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\favicon.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\fonts\\maicons.eot",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\fonts\\maicons.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\maicons.eot"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\fonts\\maicons.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\fonts\\maicons.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\maicons.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\fonts\\maicons.ttf",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\fonts\\maicons.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\maicons.ttf"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\fonts\\maicons.woff",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\fonts\\maicons.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\maicons.woff"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_preview_1.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_preview_1.png",
       "PackagePath": "staticwebassets\\assets\\img\\app_preview_1.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_preview_2.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_preview_2.png",
       "PackagePath": "staticwebassets\\assets\\img\\app_preview_2.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_preview_3.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_preview_3.png",
       "PackagePath": "staticwebassets\\assets\\img\\app_preview_3.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_preview_4.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_preview_4.png",
       "PackagePath": "staticwebassets\\assets\\img\\app_preview_4.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_showcase.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\app_showcase.svg",
       "PackagePath": "staticwebassets\\assets\\img\\app_showcase.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\bg_hero_1.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\bg_hero_1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\bg_hero_1.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\bg_hero_2.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\bg_hero_2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\bg_hero_2.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\bg_testimonials.jpg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\bg_testimonials.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg_testimonials.jpg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_1.jpg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blogs\\blog_1.jpg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_2.jpg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blogs\\blog_2.jpg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_3.jpg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blogs\\blog_3.jpg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_4.jpg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blogs\\blog_4.jpg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_5.jpg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blogs\\blog_5.jpg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_6.jpg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\blogs\\blog_6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blogs\\blog_6.jpg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\alter_sport.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\alter_sport.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\alter_sport.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\cleaning_service.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\cleaning_service.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\cleaning_service.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\creative_photo.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\creative_photo.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\creative_photo.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\global_tv.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\global_tv.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\global_tv.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\net_sport_tv.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\net_sport_tv.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\net_sport_tv.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\news_digital_tv.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\news_digital_tv.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\news_digital_tv.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\spa_beauty.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\spa_beauty.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\spa_beauty.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\trivier_group.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\clients\\trivier_group.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\trivier_group.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\hero_mini.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\hero_mini.svg",
       "PackagePath": "staticwebassets\\assets\\img\\hero_mini.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\coins.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\coins.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\coins.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\concept.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\concept.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\concept.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\customizable.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\customizable.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\customizable.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\laptop.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\laptop.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\laptop.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\payment.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\payment.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\payment.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\promotion.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\promotion.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\promotion.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\rocket.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\rocket.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\rocket.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\support.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\support.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\support.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\testimony.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\icons\\testimony.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\testimony.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\illustration_contact.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\illustration_contact.svg",
       "PackagePath": "staticwebassets\\assets\\img\\illustration_contact.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\pattern_1.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\pattern_1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\pattern_1.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\pattern_2.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\pattern_2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\pattern_2.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\person\\person_1.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\person\\person_1.png",
       "PackagePath": "staticwebassets\\assets\\img\\person\\person_1.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\person\\person_2.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\person\\person_2.png",
       "PackagePath": "staticwebassets\\assets\\img\\person\\person_2.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\person\\person_3.png",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\person\\person_3.png",
       "PackagePath": "staticwebassets\\assets\\img\\person\\person_3.png"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\pricing_pattern.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\pricing_pattern.svg",
       "PackagePath": "staticwebassets\\assets\\img\\pricing_pattern.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\pricing_pattern_grayscale.svg",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\img\\pricing_pattern_grayscale.svg",
       "PackagePath": "staticwebassets\\assets\\img\\pricing_pattern_grayscale.svg"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\js\\google-maps.js",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\js\\google-maps.js",
       "PackagePath": "staticwebassets\\assets\\js\\google-maps.js"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\js\\jquery-3.5.1.min.js",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\js\\jquery-3.5.1.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-3.5.1.min.js"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\js\\mobster.js",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\js\\mobster.js",
       "PackagePath": "staticwebassets\\assets\\js\\mobster.js"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\vendor\\animate\\animate.css",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\vendor\\animate\\animate.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\animate\\animate.css"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\vendor\\owl-carousel\\css\\owl.carousel.min.css",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\vendor\\owl-carousel\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl-carousel\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\vendor\\owl-carousel\\js\\owl.carousel.min.js",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\vendor\\owl-carousel\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\owl-carousel\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\vendor\\wow\\wow.min.js",
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\vendor\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\wow\\wow.min.js"
     },
     {

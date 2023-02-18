@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace dotnet.Models.ViewModels;
+namespace MyWebApplication.Models.ViewModels;
 
 public class Admin_Vm
 {

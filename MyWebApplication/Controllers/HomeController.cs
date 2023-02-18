@@ -1,6 +1,8 @@
-﻿using dotnet.Models;
+﻿using System;
+using MyWebApplication.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using MyWebApplication.Models.ViewModels;
 
 namespace MyWebApplication.Controllers
 {
@@ -20,11 +22,46 @@ namespace MyWebApplication.Controllers
 
         public IActionResult Privacy()
         {
+            string text = "Asp .Net Core" ;
+            ViewBag.tx = text;
+            
             return View();
         }
         
         public IActionResult Blog()
         {
+            User_Vm user = new User_Vm();
+            user.Id = 7 ;
+            user.Name = "Mohsen";
+            user.Family = "Pashaei";
+            user.PhoneNumber = "09227241678";
+            user.Age = 24 ;
+            user.DateTime = "1378/10/01";
+
+            return View(user);
+        }
+        
+        public IActionResult About()
+        {
+            User_Vm user1 = new User_Vm();
+            user1.Id = 10 ;
+            user1.Name = "Asma";
+            user1.Family = "Ngz";
+            user1.Age = 17 ;
+
+            User_Vm user2 = new User_Vm();
+            user2.Id = 15 ;
+            user2.Name = "Sana";
+            user2.Family = "Dsn";
+            user2.Age = 16 ;
+
+            // List<User_Vm> user = new List<User_Vm>{user1 , user2};
+            List<User_Vm> user = new List<User_Vm>();
+            user.Add(user1);
+            user.Add(user2);
+
+            ViewBag.User = user ;
+
             return View();
         }
 

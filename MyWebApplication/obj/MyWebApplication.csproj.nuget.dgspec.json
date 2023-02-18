@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\MyWebApplication.csproj": {}
+    "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\MyWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\MyWebApplication.csproj": {
+    "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\MyWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\MyWebApplication.csproj",
+        "projectUniqueName": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\MyWebApplication.csproj",
         "projectName": "MyWebApplication",
-        "projectPath": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\MyWebApplication.csproj",
+        "projectPath": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\MyWebApplication.csproj",
         "packagesPath": "C:\\Users\\CPT_Moh3eN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\obj\\",
+        "outputPath": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CPT_Moh3eN\\AppData\\Roaming\\NuGet\\NuGet.Config",

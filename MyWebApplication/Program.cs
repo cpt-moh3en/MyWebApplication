@@ -1,4 +1,4 @@
-using dotnet.Models.Context;
+using MyWebApplication.Models.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

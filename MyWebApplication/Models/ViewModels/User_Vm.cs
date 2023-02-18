@@ -1,5 +1,5 @@
 using System;
-namespace dotnet.Models.ViewModels;
+namespace MyWebApplication.Models.ViewModels;
 
 public class User_Vm
 {

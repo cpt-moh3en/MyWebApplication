@@ -1,7 +1,7 @@
-using dotnet.Models.Entities;
+using MyWebApplication.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace dotnet.Models.Context;
+namespace MyWebApplication.Models.Context;
 
 public class DotNetContext : DbContext
 {
