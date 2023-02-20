@@ -24,21 +24,21 @@
                 </thead>
 
                 <tbody>
-                    @if (ViewBag.User != null)
+                  @if (ViewBag.User != null)
+                  {
+                    int i = 1 ;
+                    @foreach (var user in ViewBag.User)
                     {
-                        int i = 1 ;
-                        @foreach (var user in ViewBag.User)
-                        {
-                            <tr>
-                              <td>@i</td>
-                              <td>@user.Id</td>
-                              <td>@user.Name</td>
-                              <td>@user.Family</td>
-                              <td>@user.Age</td>
-                            </tr>
-                            i++;
-                        }
+                      <tr>
+                        <td>@i</td>
+                        <td>@user.Id</td>
+                        <td>@user.Name</td>
+                        <td>@user.Family</td>
+                        <td>@user.Age</td>
+                      </tr>
+                      i++;
                     }
+                  }
                 </tbody>
 
           </table>

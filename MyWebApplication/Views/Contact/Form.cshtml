@@ -1,0 +1,53 @@
+@model MyWebApplication.Models.ViewModels.User_Vm
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="page-section pt-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+
+                <div class="card-page mt-3">
+                    <h5 class="fg-primary">Partners</h5>
+                    <hr>
+
+                    <form class="row g-3" method="post" asp-controller="Contact" asp-action="AddToForm">
+
+                        <div class="col-md-6">
+                            <label for="Name" class="form-label">Name :</label>
+                            <input type="text" class="form-control" id="Name" asp-for="Name">
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="Family" class="form-label">Family :</label>
+                            <input type="text" class="form-control" id="Family" asp-for="Family">
+                        </div>
+
+                        <div class="col-12">
+                            <label for="Address" class="form-label mt-3">Address :</label>
+                            <input type="text" class="form-control" id="Address" placeholder="1234 Main St" asp-for="Address">
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="Age" class="form-label mt-3">Age :</label>
+                            <input type="text" class="form-control" id="Age" asp-for="Age">
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="PhoneNumber" class="form-label mt-3">PhoneNumber :</label>
+                            <input type="text" class="form-control" id="PhoneNumber" asp-for="PhoneNumber">
+                        </div>
+                        
+                        <div class="col-12 mt-5 row justify-content-center">
+                            <button type="submit" class="btn btn-primary">Sign in</button>
+                        </div>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
