@@ -14,3 +14,4 @@ public class User
     public string? Image { get; set; }
     public DateTime DateTime { get; set; }
 }
+

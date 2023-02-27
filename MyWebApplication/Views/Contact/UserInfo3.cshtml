@@ -1,0 +1,52 @@
+@{
+    ViewData["Title"] = "UserInfo3";
+}
+
+
+<div class="page-section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-9 col-lg-6 py-3">
+
+        <div class="card-page">
+            <h5 class="fg-primary">Partners</h5>
+            <hr>
+
+            <table class="table table-hover">
+
+                <thead class="bg-primary rounded">
+                    <tr class="text-light">
+                      <th>row</th>
+                      <th>Id</th>
+                      <th>Name</th>
+                      <th>Family</th>
+                      <th>Age</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                  @if (ViewBag.user != null)
+                  {
+                    int i = 1 ;
+                    @foreach (var user in ViewBag.user)
+                    {
+                      <tr>
+                        <td>@i</td>
+                        <td>@user.Id</td>
+                        <td>@user.Name</td>
+                        <td>@user.Family</td>
+                        <td>@user.Age</td>
+                      </tr>
+                      i++;
+                    }
+                  }
+                </tbody>
+
+          </table>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

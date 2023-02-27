@@ -55,12 +55,20 @@ namespace MyWebApplication.Controllers
             user2.Family = "Dsn";
             user2.Age = 16 ;
 
-            // List<User_Vm> user = new List<User_Vm>{user1 , user2};
-            List<User_Vm> user = new List<User_Vm>();
-            user.Add(user1);
-            user.Add(user2);
+            User_Vm user3 = new User_Vm();
+            user3.Id = 17 ;
+            user3.Name = "Mohsen";
+            user3.Family = "pse";
+            user3.Age = 24 ;
 
-            ViewBag.User = user ;
+            List<User_Vm> user_list = new List<User_Vm>{user1 , user2 , user3};
+
+            // List<User_Vm> user = new List<User_Vm>();
+            // user.Add(user1);
+            // user.Add(user2);
+            // user.Add(user3);
+
+            ViewBag.User = user_list ;
 
             return View();
         }

@@ -1,0 +1,27 @@
+@model MyWebApplication.Models.ViewModels.User_Vm
+
+@{
+    ViewData["Title"] = "UserInfo";
+}
+
+<div class="page-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-9 col-lg-6 py-3">
+                <div class="card-page">
+                    <h5 class="fg-primary">Partners</h5>
+                    <hr>
+                    <div class="bg-danger p-5 text-light rounded">
+                      <p> Id : @Model.Id </p>
+                      <p> Name : @Model.Name </p>
+                      <p> Family : @Model.Family </p>
+                      <p> PhoneNumber : @Model.PhoneNumber </p>
+                      <p> Age : @Model.Age </p>
+                      <p> Address : @Model.Address </p>
+                      <p> DateTime : @Model.DateTime </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

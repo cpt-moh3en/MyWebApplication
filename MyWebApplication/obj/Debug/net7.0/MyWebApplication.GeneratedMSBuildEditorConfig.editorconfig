@@ -16,8 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = c:\Users\CPT_Moh3eN\Desktop\mvc\NewProj\WebApplication\MyWebApplication
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/CPT_Moh3eN/Desktop/mvc/NewProj/WebApplication/MyWebApplication/Views/Contact/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/CPT_Moh3eN/Desktop/mvc/NewProj/WebApplication/MyWebApplication/Views/Contact/Form.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CPT_Moh3eN/Desktop/mvc/NewProj/WebApplication/MyWebApplication/Views/Contact/UserInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVc2VySW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CPT_Moh3eN/Desktop/mvc/NewProj/WebApplication/MyWebApplication/Views/Contact/UserInfo2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVc2VySW5mbzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CPT_Moh3eN/Desktop/mvc/NewProj/WebApplication/MyWebApplication/Views/Contact/UserInfo3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVc2VySW5mbzMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/CPT_Moh3eN/Desktop/mvc/NewProj/WebApplication/MyWebApplication/Views/Home/About.cshtml]
