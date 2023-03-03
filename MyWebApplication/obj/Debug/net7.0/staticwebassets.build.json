@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dXQ31lhKFDzIjOS863odhv40Rq04nJMWQGPfa64ar7w=",
+  "Hash": "cw0+YEzrK7O7bdPxYTYSfOArFLlEhJcSHCfv86TxReo=",
   "Source": "MyWebApplication",
   "BasePath": "_content/MyWebApplication",
   "Mode": "Default",
@@ -1018,6 +1018,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\wow\\wow.min.js"
+    },
+    {
+      "Identity": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\FileUpload\\641a1c59-7b97-4064-bce6-3b4ad8feb9e8.jpg",
+      "SourceId": "MyWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\",
+      "BasePath": "_content/MyWebApplication",
+      "RelativePath": "FileUpload/641a1c59-7b97-4064-bce6-3b4ad8feb9e8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\FileUpload\\641a1c59-7b97-4064-bce6-3b4ad8feb9e8.jpg"
     }
   ]
 }

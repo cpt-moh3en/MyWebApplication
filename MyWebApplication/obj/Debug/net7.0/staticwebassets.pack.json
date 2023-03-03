@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MyWebApplication.bundle.scp.css"
     },
     {
+      "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\FileUpload\\641a1c59-7b97-4064-bce6-3b4ad8feb9e8.jpg",
+      "PackagePath": "staticwebassets\\FileUpload\\641a1c59-7b97-4064-bce6-3b4ad8feb9e8.jpg"
+    },
+    {
       "Id": "c:\\Users\\CPT_Moh3eN\\Desktop\\mvc\\NewProj\\WebApplication\\MyWebApplication\\wwwroot\\assets\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
     },
