@@ -12,7 +12,7 @@ namespace MyWebApplication.Controllers
     public class ContactController : Controller
     {
         private readonly DotNetContext _context;
-    private readonly IWebHostEnvironment _env;
+        private readonly IWebHostEnvironment _env;
         public ContactController(DotNetContext context , IWebHostEnvironment env)
         {
             _context = context;
@@ -36,6 +36,7 @@ namespace MyWebApplication.Controllers
                 tbl_user.PhoneNumber = vm_user.PhoneNumber;
                 tbl_user.Address = vm_user.Address;
                 tbl_user.DateTime = DateTime.Now;
+                tbl_user.Status= false;
 
                 if (vm_user.ImageFile != null)
                 {
@@ -75,6 +76,7 @@ namespace MyWebApplication.Controllers
                 tbl_user.PhoneNumber = vm_user.PhoneNumber;
                 tbl_user.Address = vm_user.Address;
                 tbl_user.DateTime = DateTime.Now;
+                tbl_user.Status= false;
 
                 _context.Tbl_User.Add(tbl_user);
 
@@ -107,6 +109,7 @@ namespace MyWebApplication.Controllers
                 PhoneNumber = user_tbl.PhoneNumber,
                 Address = user_tbl.Address,
                 DateTime = user_tbl.DateTime.ToString(),
+                Status = user_tbl.Status,
             };
 
 
@@ -140,6 +143,7 @@ namespace MyWebApplication.Controllers
                     Address = user.Address,
                     ImageName = user.Image,
                     DateTime = user.DateTime.ToString(),
+                    Status = user.Status,
                 };
                 user_lvm.Add(user_vm);
             }
@@ -155,6 +159,32 @@ namespace MyWebApplication.Controllers
             {
                 var user = _context.Tbl_User.SingleOrDefault(u => u.Id == id);
                 _context.Tbl_User.Remove(user);
+                _context.SaveChanges();
+
+                ViewBag.Tx = "OK";
+            }
+            catch (System.Exception ex)
+            {
+                ViewBag.Tx = "Er";
+            }
+
+            return RedirectToAction("UserInfo3");
+        }
+        public IActionResult EditStatus(int id)
+        {
+            try
+            {
+                var user = _context.Tbl_User.SingleOrDefault(u => u.Id == id);
+                if (user.Status == true)
+                {
+                    user.Status = false;
+                }
+                else
+                {
+                    user.Status = true;
+                }
+
+                _context.Tbl_User.Update(user);
                 _context.SaveChanges();
 
                 ViewBag.Tx = "OK";

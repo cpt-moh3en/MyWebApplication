@@ -13,5 +13,6 @@ public class User
     public string Address { get; set; }
     public string? Image { get; set; }
     public DateTime DateTime { get; set; }
+    public bool Status { get; set; }
 }
 

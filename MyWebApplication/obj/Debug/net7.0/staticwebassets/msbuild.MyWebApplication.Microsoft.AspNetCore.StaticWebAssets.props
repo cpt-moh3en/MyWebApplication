@@ -912,12 +912,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\vendor\wow\wow.min.js))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\FileUpload\641a1c59-7b97-4064-bce6-3b4ad8feb9e8.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\FileUpload\aa107aae-af06-490b-96ee-45b676cd20a9.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>MyWebApplication</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MyWebApplication</BasePath>
-      <RelativePath>FileUpload/641a1c59-7b97-4064-bce6-3b4ad8feb9e8.jpg</RelativePath>
+      <RelativePath>FileUpload/aa107aae-af06-490b-96ee-45b676cd20a9.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -926,7 +926,23 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\FileUpload\641a1c59-7b97-4064-bce6-3b4ad8feb9e8.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\FileUpload\aa107aae-af06-490b-96ee-45b676cd20a9.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\FileUpload\c0932cd2-e05d-41d9-92b7-5f6b7e80f694.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyWebApplication</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyWebApplication</BasePath>
+      <RelativePath>FileUpload/c0932cd2-e05d-41d9-92b7-5f6b7e80f694.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\FileUpload\c0932cd2-e05d-41d9-92b7-5f6b7e80f694.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\MyWebApplication.bundle.scp.css))">
       <SourceType>Package</SourceType>

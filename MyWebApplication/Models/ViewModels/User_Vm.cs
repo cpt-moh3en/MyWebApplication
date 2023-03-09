@@ -13,4 +13,5 @@ public class User_Vm
     public IFormFile ImageFile { get; set; }
     public string DateTime { get; set; }
     public DateTime Date_Time { get; set; }
+    public bool Status { get; set; }
 }
